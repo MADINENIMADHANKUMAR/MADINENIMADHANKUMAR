@@ -1,6 +1,11 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=32&pause=1000&color=F71B3B&center=true&vCenter=true&width=800&lines=MADINENI+MADHAN+KUMAR;Pentesting+%7C+Bug+Hunting+%7C+Cybersecurity+Enthusiast" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=36&pause=1000&color=F71B3B&center=true&vCenter=true&width=1000&lines=MADINENI+MADHAN+KUMAR" />
 </p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&lines=Pentesting+%7C+Bug+Hunting+%7C+Cybersecurity+Enthusiast" />
+</p>
+
 
 
 ```yaml
