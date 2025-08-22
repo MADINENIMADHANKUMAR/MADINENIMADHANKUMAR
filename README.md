@@ -5,7 +5,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&duration=2000&pause=500&color=36BCF7&center=true&vCenter=true&width=1000&lines=Junior+Pentester+%7C+Cybersecurity+Learner" />
 </p>
----
 
 ### 👨‍💻 About Me
 ```yaml
