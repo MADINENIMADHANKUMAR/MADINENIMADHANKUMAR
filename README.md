@@ -6,8 +6,9 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&duration=2000&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&lines=Junior+Pentester+%7C+Cybersecurity+Learner" />
 </p>
 <p align="center">
-  <img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" width="800" height="400">
+  <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="800" height="400">
 </p>
+
 
 ### 👨‍💻 About Me
 ```yaml
