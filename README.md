@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <strong>AI Enthusiast | Junior Penetration Tester | Cybersecurity Enthusiast</strong>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&duration=2000&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&lines=AI+Enthusiast+%7C+Junior+Penetration+Tester+%7C+Cybersecurity+Enthusiast" />
 </p>
 
 ### 👨‍💻 About Me
