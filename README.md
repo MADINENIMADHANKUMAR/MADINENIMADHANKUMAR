@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&duration=1800&pause=800&color=36BCF7&center=true&vCenter=true&width=1000&lines=AI+Enthusiast+%7C+Junior+Penetration+Tester" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&duration=1800&pause=800&color=36BCF7&center=true&vCenter=true&width=1000&lines=AI+Enthusiast+%7C+Aspiring+Penetration+Tester" />
 </p>
 
 ### 👨‍💻 About Me
