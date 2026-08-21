@@ -8,9 +8,13 @@
 
 ### 👨‍💻 About Me
 
-B.Tech Computer Science and Engineering student with a strong interest in **Artificial Intelligence and Cybersecurity**.
+<h3>
+B.Tech Computer Science and Engineering student with a strong interest in <strong>Artificial Intelligence and Cybersecurity</strong>.
+</h3>
 
-**Self-taught in Artificial Intelligence and Penetration Testing**, with hands-on learning in **Python, Machine Learning, Web Security, Networking, and Bug Bounty**.
+<h3>
+Self-taught in <strong>Artificial Intelligence and Penetration Testing</strong>, with hands-on learning in <strong>Python, Machine Learning, Web Security, Networking, and Bug Bounty</strong>.
+</h3>
 
 ### 🔐 Current Focus
 
