@@ -1,11 +1,9 @@
-<h1 align="center">Madineni Madhan Kumar</h1>
-
 <p align="center">
-  <strong>AI Enthusiast | Junior Penetration Tester | Cybersecurity Enthusiast</strong>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=36&duration=2000&pause=1000&color=F71B3B&center=true&vCenter=true&width=1000&lines=MADINENI+MADHAN+KUMAR" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="800" height="400">
+  <strong>AI Enthusiast | Junior Penetration Tester | Cybersecurity Enthusiast</strong>
 </p>
 
 ### 👨‍💻 About Me
