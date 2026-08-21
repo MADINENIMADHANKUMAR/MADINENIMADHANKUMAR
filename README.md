@@ -10,7 +10,7 @@
 
 B.Tech Computer Science and Engineering student with a strong interest in **Artificial Intelligence and Cybersecurity**.
 
-**Self-taught in Artificial Intelligence and Penetration Testing**, with hands-on learning in **Python, TensorFlow, LSTM, web security, networking, and bug bounty research**.
+**Self-taught in Artificial Intelligence and Penetration Testing**, with hands-on learning in **Python, Machine Learning, Web Security, Networking, and Bug Bounty**.
 
 ### 🔐 Current Focus
 
@@ -21,13 +21,20 @@ B.Tech Computer Science and Engineering student with a strong interest in **Arti
   <img src="https://img.shields.io/badge/Bug%20Bounty-000000?style=for-the-badge&logo=bugcrowd&logoColor=white" />
 </p>
 
-### 🛠️ Tools
+### 🛠️ Security Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Kali%20Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white" />
   <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
   <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white" />
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-2E8B57?style=for-the-badge&logo=metasploit&logoColor=white" />
+</p>
+
+### 🖥️ Operating Systems
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 </p>
 
 ### 💻 Languages
