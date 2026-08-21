@@ -3,14 +3,14 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&duration=1800&pause=800&color=36BCF7&center=true&vCenter=true&width=1000&lines=AI+Enthusiast;Junior+Penetration+Tester;Cybersecurity+Enthusiast" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&duration=1800&pause=800&color=36BCF7&center=true&vCenter=true&width=1000&lines=AI+Enthusiast+%7C+Junior+Penetration+Tester" />
 </p>
 
 ### 👨‍💻 About Me
 
-B.Tech CSE student interested in **Artificial Intelligence and Cybersecurity**.
+B.Tech Computer Science and Engineering student with a strong interest in **Artificial Intelligence and Cybersecurity**.
 
-Currently exploring **AI/ML with Python, TensorFlow and LSTM**, while developing practical skills in **penetration testing, web security, networking and bug hunting**.
+**Self-taught in Artificial Intelligence and Penetration Testing**, with hands-on learning in **Python, TensorFlow, LSTM, web security, networking, and bug bounty research**.
 
 ### 🔐 Current Focus
 
